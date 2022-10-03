@@ -3,7 +3,10 @@ Ramkrushna Sahu
 # Assignment Name
 Simple Weather App
 # Technologies Used
-HTML, CSS & Javascript
+HTML
+CSS
+JavaScript
+Openweathermap.org for free API to generate real time weather information
 # Application Used
 Visual Studio Code
 # image
